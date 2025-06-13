@@ -1,0 +1,21 @@
+{
+  "name": "streetviewclick",
+  "label": "Street View Click",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "slux",
+  "description": "This widget allows users to click on a map to open a Street View window at that location.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
